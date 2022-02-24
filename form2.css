@@ -1,0 +1,26 @@
+.formbox {
+    border: 1px solid black;
+    width: 320px;
+    height: 280px;
+    text-align: center;
+    margin: 200px 300px 200px 300px;
+    font-family: 'Oswald';
+}
+input{
+    margin: 5px;
+    width: 200px;
+    font-family: 'Oswald';
+
+}
+input [type=submit]{
+    width: 300px;
+    margin-top: 20px;
+}
+.btn {
+    width: 300px;
+    font-family: 'Oswald';
+}
+.entry {
+    margin-bottom: 30px;
+    font-family: 'Oswald';
+}
